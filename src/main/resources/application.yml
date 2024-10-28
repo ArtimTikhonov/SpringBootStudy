@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: SpringBootStudy
+
+  data:
+    redis:
+      host: localhost
+      port: 6379
+  liquibase:
+    enabled: false
+
